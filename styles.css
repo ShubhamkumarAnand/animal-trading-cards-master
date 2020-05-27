@@ -1,0 +1,37 @@
+img {
+    width: 300px;
+    height: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.facts {
+    font-style: italic;
+}
+
+.card {
+    width: 320px;
+    border-style: outset;
+}
+
+.box {
+    margin: 10px;
+    border-style: groove;
+}
+
+ul {
+    padding: 10px;
+    list-style: none;
+}
+
+p {
+    padding: 10px;
+}
+
+h2 {
+    padding: 10px;
+}
+
+span {
+    font-weight: bold;
+}
